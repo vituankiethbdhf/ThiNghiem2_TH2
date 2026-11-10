@@ -63,4 +63,3 @@ https://drive.google.com/file/d/19ztcJRntxwJa0QkoF3bWc5C8Tej_oTIh/view?usp=shari
 
 - ESP32 DevKit V1
 - Wokwi Simulator
-- Visual Studio Code
